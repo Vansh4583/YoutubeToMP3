@@ -1,7 +1,5 @@
 // Class handling conversion of youtube url to an mp3 file
 class YouTubeConverter {
-
-
     constructor(formId) {
         this.form = document.getElementById(formId);
         this.form.addEventListener('submit', this.handleSubmit.bind(this));
@@ -44,7 +42,6 @@ class YouTubeConverter {
         a.click();
         a.remove();
     }
-
 
     // Throws an alert in case the convertToMp3 method returns an error
     handleError(error) {
