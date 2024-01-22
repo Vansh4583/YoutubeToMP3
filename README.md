@@ -8,7 +8,7 @@ All you need to do is copy the url of the song/audio you wish to download from Y
 
 
 
-![Alt Text](src/main/resources/static/ytmp3 site 2.jpg)
+![Alt Text](src/main/resources/static/ytmp3site2.jpg)
 
 
 
